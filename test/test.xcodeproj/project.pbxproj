@@ -28,8 +28,8 @@
 			buildConfigurationList = 3A0EBC8A2576995100F5B2E0 /* Build configuration list for PBXLegacyTarget "test" */;
 			buildPhases = (
 			);
-			buildToolPath = /Users/anton/miniconda3/bin/python3.8;
-			buildWorkingDirectory = /Users/anton/miniconda3/bin;
+			buildToolPath = /Users/anton/miniconda3/bin/python;
+			buildWorkingDirectory = "";
 			dependencies = (
 			);
 			name = test;
@@ -210,7 +210,7 @@
 				3A0EBC892576995100F5B2E0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 		3A0EBC8A2576995100F5B2E0 /* Build configuration list for PBXLegacyTarget "test" */ = {
 			isa = XCConfigurationList;
@@ -219,7 +219,7 @@
 				3A0EBC8C2576995100F5B2E0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 /* End XCConfigurationList section */
 	};

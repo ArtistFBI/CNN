@@ -1,0 +1,16 @@
+{
+    "device": "cpu",
+    "weights": "/Users/anton/Documents/CNN/YOLOv5/weights/best.pt",
+    "img": 1024,
+    "conf": 0.4,
+    "source": "/Volumes/HARD/DataSets/test",
+    "save_dir": "/Volumes/HARD/Results/YOLOv5",
+    "view_img": false,
+    "augment": true,
+    "agnostic_nms": true,
+    "name": "",
+    "save_txt": true,
+    "save_conf": true,
+    "iou_thres": 0.45,
+    "classes": 0
+}
